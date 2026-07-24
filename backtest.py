@@ -60,8 +60,11 @@ BUDGET = 1_000_000
 # Backtest window (both bounds inclusive). Set either to ``None`` to defer
 # entirely to the date range available in your CSV files. Defaults align
 # with the official competition trading window (1-31 August 2026, SGT).
-BACKTEST_START: datetime | None = datetime(2026, 8, 1)
-BACKTEST_END: datetime | None = datetime(2026, 8, 29)
+
+# Bear market backtest: 1 Apr 2025 - 1 Jul 2025 OR 1 Jun 2026 to 1 Jul 2026
+# Bull market backtest: 1 Jun 2025 - 1 Jun 2026
+BACKTEST_START: datetime | None = datetime(2026, 7, 18)
+BACKTEST_END: datetime | None = datetime(2026, 7, 23)
 
 # When True, the harness aborts if a symbol declared in ``params.py`` has
 # no matching CSV in ``DATA_DIR``. When False the symbol is skipped with a
@@ -83,8 +86,8 @@ BUY_FLAT_FEE = 0.0
 SELL_FLAT_FEE = 0.0
 
 # Fee as a fraction of trade notional. 0.0005 == 5 basis points.
-BUY_PERCENT_FEE = 0.0
-SELL_PERCENT_FEE = 0.0
+BUY_PERCENT_FEE = 0.0008 # Raised to 0.0008 for slippage. We assume 6 out of the 8 bp comes from slippage
+SELL_PERCENT_FEE = 0.0008 # Raised to 0.0008 for slippage. We assume 6 out of the 8 bp comes from slippage
 
 # Per-contract fee (only relevant for options / futures).
 PER_CONTRACT_FEE = 0.0
@@ -170,11 +173,11 @@ def _load_pandas_data() -> tuple[dict[Asset, Data], list[pd.Timestamp], list[pd.
     starts: list[pd.Timestamp] = []
     ends: list[pd.Timestamp] = []
     missing_symbols: list[str] = []
-    crypto_quote = Asset(symbol="USD", asset_type=Asset.AssetType.CRYPTO)
+    crypto_quote = Asset(symbol="USD", asset_type=Asset.AssetType.FOREX) # Note this was originally asset_type=Asset.AssetType.CRYPTO but returned errors and warnings
     stock_quote = Asset(symbol="USD", asset_type=Asset.AssetType.FOREX)
 
     for symbol in symbols:
-        filename = f"{_normalize_symbol(symbol)}_1m_spot.csv"
+        filename = f"{_normalize_symbol(symbol)}_1h_spot.csv" # CHANGED
         path = DATA_DIR / filename
         if not path.exists():
             print(f"[WARN] Missing CSV for {symbol}: {path}")
@@ -192,7 +195,8 @@ def _load_pandas_data() -> tuple[dict[Asset, Data], list[pd.Timestamp], list[pd.
             asset_type=Asset.AssetType.CRYPTO if is_crypto else Asset.AssetType.STOCK,
         )
         quote = crypto_quote if is_crypto else stock_quote
-        pandas_data[asset] = Data(asset, df, timestep="minute", quote=quote)
+        pandas_data[asset] = Data(asset, df, timestep="hour", quote=quote) # CHANGED from day to hour
+        
         starts.append(df.index.min())
         ends.append(df.index.max())
 
@@ -209,6 +213,7 @@ def run_backtest() -> None:
         raise RuntimeError(f"Data directory not found: {DATA_DIR}")
 
     pandas_data, starts, ends, missing_symbols = _load_pandas_data()
+
     if not pandas_data:
         raise RuntimeError(f"No valid CSV data loaded from {DATA_DIR}")
     if STRICT_MISSING_SYMBOLS and missing_symbols:
@@ -233,7 +238,7 @@ def run_backtest() -> None:
         f"[INFO] Loaded {len(pandas_data)} assets from {DATA_DIR}\n"
         f"[INFO] Backtest window: {backtesting_start} -> {backtesting_end}"
     )
-
+    
     Strategy.run_backtest(
         PandasDataBacktesting,
         backtesting_start,

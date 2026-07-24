@@ -1,0 +1,36 @@
+{
+ "saved_models": [
+  "NVDA",
+  "LLY",
+  "VRTX",
+  "AAPL",
+  "MOD",
+  "AMD",
+  "ABBV",
+  "COST",
+  "GOOGL",
+  "BTC",
+  "ETH",
+  "SOL"
+ ],
+ "skipped_no_model": [],
+ "data_end": "2026-07-23 03:00:00-04:00",
+ "warmup_train_hours": 5500,
+ "tracker_replay_hours": 2260,
+ "max_train_samples": 5000,
+ "n_estimators": 2000,
+ "symbols": [
+  "NVDA",
+  "LLY",
+  "VRTX",
+  "AAPL",
+  "MOD",
+  "AMD",
+  "ABBV",
+  "COST",
+  "GOOGL",
+  "BTC",
+  "ETH",
+  "SOL"
+ ]
+}

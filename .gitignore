@@ -1,13 +1,7 @@
-venv/
-.venv/
 .env
-logs/
 __pycache__/
-**/__pycache__/
-.pytest_cache/
+*.pyc
+*.parquet
+logs/
+.lumibot/
 .DS_Store
-
-# Local backtest artifacts (committed example CSVs are kept).
-data/raw/
-data/*.parquet
-data/cache/
