@@ -1,5 +1,10 @@
-lumibot
-python-dotenv
-pandas
-numpy
-scikit-learn
+# The xgboost pin is load-bearing: the committed weights (weights/*.ubj.gz) are
+# saved in the XGBoost 3.x native format and must be loaded by a 3.x runtime.
+lumibot>=4.5
+xgboost>=3.0,<4
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+# Cold-start lookback backfill: the strategy calls yf.download() at startup only
+# if the live feed serves no pre-competition history (organizers confirmed yfinance is allowed).
+yfinance>=0.2
