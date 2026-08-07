@@ -14,11 +14,7 @@
   "SOL"
  ],
  "skipped_no_model": [],
-<<<<<<< HEAD
  "data_end": "2026-08-06 03:00:00-04:00",
-=======
- "data_end": "2026-07-23 03:00:00-04:00",
->>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
  "warmup_train_hours": 5500,
  "tracker_replay_hours": 2260,
  "max_train_samples": 5000,

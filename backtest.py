@@ -63,13 +63,8 @@ BUDGET = 1_000_000
 
 # Bear market backtest: 1 Apr 2025 - 1 Jul 2025 OR 1 Jun 2026 to 1 Jul 2026
 # Bull market backtest: 1 Jun 2025 - 1 Jun 2026
-<<<<<<< HEAD
 BACKTEST_START: datetime | None = datetime(2026, 8, 3)
 BACKTEST_END: datetime | None = None
-=======
-BACKTEST_START: datetime | None = datetime(2026, 7, 18)
-BACKTEST_END: datetime | None = datetime(2026, 7, 23)
->>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
 
 # When True, the harness aborts if a symbol declared in ``params.py`` has
 # no matching CSV in ``DATA_DIR``. When False the symbol is skipped with a
