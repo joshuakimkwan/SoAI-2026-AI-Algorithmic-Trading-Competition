@@ -1,5 +1,6 @@
 {
  "NVDA": {
+<<<<<<< HEAD
   "score": 0.36939978078859453,
   "predictions": [
    true,
@@ -35,12 +36,46 @@
    false,
    false,
    true,
+=======
+  "score": 0.3534827249762552,
+  "predictions": [
    false,
+   true,
+   true,
+   false,
+   false,
+   true,
+   true,
+   false,
+   true,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
    false,
    false,
    false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
+   false,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
@@ -48,31 +83,65 @@
    true,
    true,
    true,
+=======
+   true,
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
+   true,
+   false,
+   true,
    true,
+   true,
+=======
+   true,
    false,
+   false,
    true,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
+   false,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
+   true,
+<<<<<<< HEAD
    false,
+   false,
+   true,
    true,
+   true,
+=======
+   true,
    false,
    false,
+   false,
    true,
+   false,
    true,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -81,7 +150,10 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -90,38 +162,70 @@
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
+   false,
    false,
    false,
+   true,
    false,
    true,
+   false,
+   false,
+=======
    false,
+   false,
    true,
    false,
    false,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
+   false,
+<<<<<<< HEAD
    false,
+   true,
+=======
+   true,
    false,
+   true,
    true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -129,44 +233,85 @@
    true,
    true,
    true,
+   false,
    false,
+=======
+   true,
+   true,
    false,
+   true,
    true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   false,
+   false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
    false,
    false,
+   true,
+   false,
+=======
+   true,
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
    true,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+   false,
+   false,
+   false,
+   false,
+=======
+   true,
    true,
+   false,
    true,
+   false,
    true,
    false,
+   true,
    false,
    false,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
+   true,
    false,
+=======
+   true,
    false,
    true,
    false,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   false,
    true,
    false,
    true,
@@ -175,37 +320,58 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
    false,
    true,
    false,
    false,
    true,
+   true,
+   false,
    true,
+=======
    false,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+   true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
+   true,
    true,
    false,
    false,
    false,
+=======
    true,
    true,
    false,
+   true,
    false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
@@ -216,7 +382,14 @@
    true,
    false,
    true,
+=======
+   false,
    false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    false,
    true,
@@ -224,20 +397,33 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
    false,
    false,
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   false,
+   false,
+   false,
+   false,
    true,
+<<<<<<< HEAD
    true,
+=======
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
@@ -245,22 +431,39 @@
    true,
    false,
    false,
+   true,
    true,
+=======
    true,
+   false,
+   false,
+   false,
    false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    false,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
    true,
    true,
+=======
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -268,76 +471,131 @@
    true,
    true,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
    false,
    true,
+=======
    false,
+   true,
+   false,
+   true,
+   false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
+   true,
    false,
+<<<<<<< HEAD
    true,
+   false,
    false,
+=======
    false,
+   true,
+   false,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
    false,
    true,
+=======
    false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
+   false,
+   false,
    false,
+<<<<<<< HEAD
+=======
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true
   ]
  },
  "LLY": {
+<<<<<<< HEAD
   "score": 0.41696997958041554,
+=======
+  "score": 0.44418543448888037,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
   "predictions": [
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
    true,
+   false,
    false,
+   true,
    false,
    true,
    false,
+=======
+   true,
    true,
+   true,
+   false,
    false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -347,12 +605,15 @@
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
    true,
    true,
    true,
    true,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -360,6 +621,7 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
@@ -372,11 +634,20 @@
    true,
    false,
    false,
+=======
+   false,
+   true,
+   true,
+   true,
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -389,39 +660,70 @@
    false,
    false,
    false,
+   true,
+   false,
+=======
+   true,
    true,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    true,
    true,
+   true,
+   false,
+<<<<<<< HEAD
    true,
    false,
+   false,
    true,
    false,
+   true,
    false,
    true,
+   true,
    false,
+   true,
    true,
    false,
+   false,
    true,
    true,
    false,
    true,
+   false,
+   false,
    true,
+   false,
+=======
    false,
    false,
+   false,
+   true,
    true,
    true,
+   false,
+   false,
+   false,
    false,
    true,
    false,
    false,
    true,
    false,
+   true,
+   true,
+   false,
+   false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    true,
@@ -430,9 +732,15 @@
    false,
    false,
    true,
+<<<<<<< HEAD
+   true,
+   false,
    true,
+=======
    false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -442,197 +750,383 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
+   false,
+<<<<<<< HEAD
    false,
+   true,
    false,
    true,
+   false,
    false,
+   false,
+   false,
+=======
    true,
+   true,
    false,
+   false,
+   true,
    false,
+   true,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
+   true,
+   true,
+<<<<<<< HEAD
    false,
    true,
+   false,
+   false,
    true,
    false,
+   true,
+   true,
    true,
    false,
    false,
+   false,
+   true,
    true,
+=======
+   true,
    false,
    true,
+   false,
+   false,
    true,
    true,
+   false,
    false,
+   true,
    false,
    false,
    true,
+   true,
+   false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+   true,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
+   true,
+   false,
+<<<<<<< HEAD
+   false,
    true,
    false,
    false,
    true,
    false,
    false,
+=======
    true,
+   false,
    false,
    false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
+   false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
+   false,
+   true,
+   false,
+=======
+   true,
+   true,
    false,
    true,
    false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
+=======
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
    true,
+   false,
+<<<<<<< HEAD
+=======
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+   true,
+   true,
+<<<<<<< HEAD
    false,
+=======
    true,
    true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
+   true,
+<<<<<<< HEAD
    true,
    true,
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
+   false,
    true,
    false,
+<<<<<<< HEAD
+=======
    false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
    false,
    false,
+   true,
+<<<<<<< HEAD
+   true,
    true,
    false,
    true,
    true,
+   true,
    false,
+   true,
+   true,
    false,
    true,
    true,
    true,
+   false,
+=======
    false,
    true,
+   false,
+   false,
+   false,
+   false,
    true,
+   false,
    true,
    false,
    true,
    true,
    false,
+   false,
+   true,
    true,
+   false,
+   false,
    true,
    true,
    false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
+   false,
    false,
+<<<<<<< HEAD
+   true,
    false,
    true,
+   false,
+=======
+   false,
    false,
+   false,
    true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    true,
+   true,
+   false,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
+=======
+   true,
+   false,
    false,
+   false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false
   ]
  },
  "VRTX": {
+<<<<<<< HEAD
   "score": 0.4759475739922289,
   "predictions": [
    false,
+=======
+  "score": 0.4411142591091881,
+  "predictions": [
+   false,
+   false,
+   true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    true,
+   false,
    false,
+   true,
+   true,
+   true,
+   true,
+=======
    false,
    true,
+   false,
    true,
+   false,
+   false,
+   false,
+   false,
+   false,
    true,
    true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -640,15 +1134,24 @@
    false,
    false,
    false,
+   false,
    true,
    true,
    false,
+   true,
+<<<<<<< HEAD
    true,
+=======
+   false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    true,
@@ -657,81 +1160,174 @@
    false,
    true,
    false,
+=======
+   true,
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
+   true,
+   true,
+   false,
+<<<<<<< HEAD
    true,
+   false,
    true,
    false,
    true,
    false,
+   true,
    true,
    false,
    true,
+   true,
+   true,
+=======
    false,
    true,
    true,
+   false,
    false,
+   false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    true,
    false,
+   true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
+   false,
    false,
+<<<<<<< HEAD
    true,
+   false,
+=======
+   false,
+   false,
    true,
    false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
+   false,
+   false,
+   true,
+<<<<<<< HEAD
    false,
    true,
    false,
    false,
    false,
+   true,
+=======
+   true,
+   true,
    false,
    false,
+   true,
+   true,
    true,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
    false,
+   false,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
+   true,
    false,
    false,
    false,
    false,
+   true,
    false,
    false,
+=======
    true,
+   true,
+   true,
+   true,
    false,
    false,
+   false,
+   true,
    true,
    false,
    false,
+   true,
    false,
+   true,
+   true,
+   true,
    false,
+   true,
    true,
    false,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
+   false,
+   false,
+<<<<<<< HEAD
+   false,
    false,
    false,
    false,
+=======
+   true,
+   true,
+   true,
+   false,
+   true,
    false,
    false,
+   true,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
+   false,
    false,
+<<<<<<< HEAD
    false,
+   true,
+   false,
+=======
+   true,
    false,
    true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -741,29 +1337,51 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+   true,
+=======
+   false,
+   false,
+   true,
+   false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    true,
@@ -775,30 +1393,47 @@
    true,
    true,
    true,
+   true,
+   true,
+   false,
+   false,
+=======
+   false,
    true,
+   false,
    true,
+   false,
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    true,
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    true,
@@ -808,14 +1443,24 @@
    true,
    true,
    true,
+   true,
+   false,
+   false,
+=======
+   false,
+   false,
    true,
    false,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
    true,
    true,
@@ -825,31 +1470,52 @@
    false,
    true,
    true,
+=======
+   true,
+   true,
+   true,
+   false,
+   true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+   false,
+   true,
+   true,
    false,
+=======
    true,
    true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
    false,
    true,
+=======
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
+   false,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    true,
@@ -859,29 +1525,56 @@
    true,
    false,
    false,
+   false,
+=======
+   true,
+   true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
    true,
    true,
+<<<<<<< HEAD
+   false,
+   false,
    true,
    false,
    false,
+=======
+   true,
    true,
    false,
    false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    true,
    true,
+   false,
+   false,
+<<<<<<< HEAD
    false,
    false,
    false,
+   true,
+   false,
+=======
+   true,
+   false,
+   true,
    false,
    false,
    true,
+   true,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -889,18 +1582,24 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
    false,
    false,
    true,
+   false,
+=======
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
@@ -911,10 +1610,18 @@
    true,
    true,
    true,
+=======
+   false,
+   false,
+   false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false
   ]
  },
  "AAPL": {
+<<<<<<< HEAD
   "score": 0.4323895355782779,
   "predictions": [
    true,
@@ -929,15 +1636,30 @@
    false,
    true,
    true,
+=======
+  "score": 0.5045473449073828,
+  "predictions": [
    false,
    false,
    false,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
+   false,
+   false,
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -945,11 +1667,24 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
+   false,
+   false,
+=======
+   true,
+   true,
+   true,
+   true,
+   false,
+   true,
    false,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -957,17 +1692,26 @@
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    true,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -978,21 +1722,42 @@
    true,
    false,
    false,
+=======
+   true,
+   false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
    true,
    true,
+=======
+   true,
+   false,
+   true,
+   false,
    false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   false,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -1001,6 +1766,7 @@
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
@@ -1020,29 +1786,68 @@
    false,
    false,
    false,
+=======
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
    false,
    false,
    false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
+   true,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
    false,
+<<<<<<< HEAD
    false,
    false,
+   true,
    false,
+   true,
    false,
+   true,
+=======
+   true,
    false,
    true,
    false,
+   false,
    true,
    false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   false,
+   false,
    false,
+   true,
+<<<<<<< HEAD
+   true,
    false,
+=======
    false,
    true,
    true,
+   false,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -1050,6 +1855,11 @@
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -1057,6 +1867,10 @@
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -1064,14 +1878,22 @@
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    true,
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -1080,6 +1902,7 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    true,
@@ -1090,12 +1913,18 @@
    false,
    true,
    true,
+=======
    false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    false,
@@ -1110,17 +1939,44 @@
    false,
    true,
    false,
+   true,
    true,
    true,
    true,
+   true,
+   true,
+   false,
+=======
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
    true,
    true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
    true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
+   false,
+<<<<<<< HEAD
+=======
+   true,
+   true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
@@ -1135,13 +1991,19 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   false,
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -1150,37 +2012,75 @@
    false,
    true,
    false,
+   true,
+=======
    true,
+   true,
+   true,
+   true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
    false,
+=======
    true,
    true,
    true,
+   false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
+   true,
+   true,
+<<<<<<< HEAD
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    true,
+   true,
+<<<<<<< HEAD
+=======
+   false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+   true,
+=======
+   true,
+   false,
+   true,
+   true,
+   false,
+   false,
+   true,
    true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -1191,35 +2091,63 @@
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
+   false,
+   true,
    false,
+=======
    true,
+   true,
+   false,
    false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+   false,
    false,
+=======
    false,
+   false,
+   false,
+   true,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   true,
+   false,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false
   ]
  },
  "MOD": {
+<<<<<<< HEAD
   "score": 0.37476959519231046,
   "predictions": [
    true,
@@ -1235,27 +2163,55 @@
    false,
    true,
    false,
+=======
+  "score": 0.3193523354639156,
+  "predictions": [
    true,
+   false,
+   false,
+   true,
+   true,
+   false,
+   true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
    false,
+   true,
+   true,
    true,
    true,
    true,
    true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
    true,
    true,
    false,
    false,
    false,
+=======
    false,
    false,
+   true,
+   true,
    false,
    true,
+   false,
+   false,
+   false,
    true,
    false,
    false,
@@ -1263,44 +2219,79 @@
    false,
    false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
+   true,
+   false,
+<<<<<<< HEAD
+   false,
+   false,
+=======
+   true,
+   false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
+=======
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
+   false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
+   true,
    true,
+<<<<<<< HEAD
+   false,
+   false,
    true,
+   false,
+   false,
    false,
    false,
    true,
@@ -1308,11 +2299,20 @@
    false,
    false,
    false,
+=======
    true,
+   true,
+   true,
+   true,
+   true,
    false,
+   true,
    false,
    false,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
@@ -1323,31 +2323,63 @@
    false,
    false,
    true,
+<<<<<<< HEAD
+   false,
    false,
    false,
+=======
+   true,
    false,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+   false,
    false,
+   false,
+   false,
+=======
+   false,
+   true,
+   true,
+   true,
    false,
+   true,
    false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
+   false,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
    false,
+   true,
+<<<<<<< HEAD
+=======
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -1355,107 +2387,187 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
    false,
    false,
    false,
+=======
    false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
+   false,
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
+=======
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
    true,
    true,
+   false,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
+   false,
+   true,
+=======
+   true,
    false,
    false,
    true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    false,
+<<<<<<< HEAD
+   true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
+   false,
    true,
    false,
    false,
+=======
+   true,
+   true,
    false,
    true,
    false,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
+   false,
+=======
    false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
    true,
    false,
    false,
+=======
+   false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
+   false,
+   true,
    true,
+<<<<<<< HEAD
+   false,
+   false,
+=======
    true,
    false,
+   false,
+   true,
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -1464,14 +2576,20 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
+=======
+   true,
    false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    true,
@@ -1482,76 +2600,156 @@
    true,
    false,
    false,
+   false,
+   true,
+=======
    false,
    true,
    false,
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
    true,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
+   false,
    true,
+   false,
    false,
+<<<<<<< HEAD
    true,
    false,
+   false,
+   true,
+=======
    false,
    true,
    false,
    false,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
+   false,
+<<<<<<< HEAD
+   true,
    false,
    true,
+=======
    false,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false
   ]
  },
  "AMD": {
+<<<<<<< HEAD
   "score": 0.33630135973734343,
   "predictions": [
    true,
    false,
    true,
    false,
+=======
+  "score": 0.33584756338519217,
+  "predictions": [
    true,
    false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   false,
+   true,
+   false,
+<<<<<<< HEAD
+   true,
    true,
+   true,
+   false,
+   true,
+   true,
+=======
    false,
    true,
+   false,
+   true,
    true,
+   false,
+   false,
    true,
    false,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   false,
+   false,
    true,
+<<<<<<< HEAD
    false,
    false,
    true,
+   true,
+   false,
    false,
    false,
+=======
    true,
+   false,
+   false,
    true,
    false,
    false,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -1562,6 +2760,7 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
@@ -1570,16 +2769,32 @@
    false,
    false,
    true,
+=======
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    false,
    true,
+=======
+   false,
+   true,
+   false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -1588,16 +2803,20 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
@@ -1605,7 +2824,12 @@
    false,
    true,
    false,
+   true,
+=======
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -1615,54 +2839,86 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
    true,
    false,
    false,
+=======
    true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
+   true,
+   true,
+   false,
+   false,
    true,
+   false,
+   false,
    true,
    false,
    false,
    true,
+=======
    false,
+   true,
    false,
    true,
+   false,
    false,
    false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
+   false,
+   false,
+   false,
    false,
    false,
+<<<<<<< HEAD
+=======
    false,
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    false,
@@ -1670,45 +2926,81 @@
    false,
    true,
    true,
+=======
    false,
    true,
+   true,
+   false,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
+   true,
+   false,
    false,
    false,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
+=======
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    false,
    false,
+<<<<<<< HEAD
+   true,
    true,
    true,
+   false,
+   false,
+   false,
    true,
+=======
+   false,
    false,
+   true,
    false,
+   true,
    false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
+=======
+   true,
+   false,
+   true,
+   false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -1720,88 +3012,156 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+   true,
+   false,
    true,
+=======
    false,
+   false,
+   false,
+   false,
+   true,
    true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
+   false,
    false,
    false,
+<<<<<<< HEAD
+   true,
    false,
    true,
+=======
    false,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
+=======
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   false,
+   false,
    true,
    false,
    false,
    false,
    false,
    false,
+   false,
+<<<<<<< HEAD
+   true,
    false,
    true,
    false,
    true,
+   true,
+   false,
    false,
+   false,
    true,
+   false,
+=======
+   false,
+   false,
    true,
+   false,
+   false,
    false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
+   false,
    false,
    false,
+<<<<<<< HEAD
+   true,
    false,
    false,
    false,
    false,
+   true,
    false,
    true,
    false,
+   true,
    false,
+   true,
+=======
    false,
    false,
    true,
    false,
+   false,
+   true,
    true,
+   true,
    false,
+   true,
    true,
    false,
    true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    false,
    false,
+   true,
+<<<<<<< HEAD
    false,
    true,
+   false,
    false,
+=======
    true,
    false,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
@@ -1812,6 +3172,7 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -1820,16 +3181,23 @@
    true,
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false
   ]
  },
  "ABBV": {
+<<<<<<< HEAD
   "score": 0.4164705281489229,
   "predictions": [
    true,
@@ -1843,9 +3211,17 @@
    false,
    true,
    false,
+=======
+  "score": 0.500740494604493,
+  "predictions": [
    true,
    false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   false,
+   false,
    false,
    false,
    false,
@@ -1855,6 +3231,7 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -1866,14 +3243,26 @@
    false,
    true,
    false,
+   false,
+   false,
+   false,
+=======
+   true,
    false,
+   true,
+   true,
    false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    true,
    false,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
@@ -1883,59 +3272,93 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    true,
    true,
    true,
+   false,
    false,
    false,
+   true,
+   true,
+=======
    false,
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
+   true,
    true,
+=======
+   false,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   false,
    false,
    false,
    false,
    false,
    false,
+   true,
+   false,
+<<<<<<< HEAD
    false,
+   true,
+=======
+   true,
    true,
    false,
    false,
    true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    true,
@@ -1943,29 +3366,61 @@
    false,
    true,
    true,
+   true,
+   false,
+   false,
+=======
+   false,
+   false,
    true,
    false,
+   true,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
+   false,
+<<<<<<< HEAD
+=======
+   false,
    false,
+   false,
+   false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   true,
    false,
    false,
+   true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
+=======
+   false,
+   false,
+   true,
+   true,
    true,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -1975,48 +3430,77 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    true,
+   false,
    false,
    false,
+=======
+   true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
    true,
+   false,
    false,
    false,
+   false,
+   true,
    false,
+   true,
    false,
    true,
    false,
    true,
    false,
    true,
+   false,
    false,
+=======
+   false,
+   true,
    true,
    false,
    true,
+   true,
+   true,
+   true,
    false,
+   true,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
    false,
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    true,
+   false,
+<<<<<<< HEAD
+=======
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -2026,13 +3510,20 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
@@ -2042,37 +3533,70 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
+   true,
    true,
+   false,
+=======
+   false,
    true,
    false,
+   false,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
+   true,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
    true,
    false,
    true,
+   false,
+   false,
+   false,
    false,
+   true,
+   true,
    false,
    false,
+   true,
+   true,
+   true,
+=======
+   true,
    false,
    true,
    true,
    false,
+   true,
+   true,
+   true,
    false,
+   true,
    true,
+   false,
    true,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2087,54 +3611,112 @@
    false,
    false,
    false,
+   true,
    true,
+<<<<<<< HEAD
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
+   true,
+   false,
+   false,
    true,
    false,
+=======
    false,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   false,
    false,
+   true,
    false,
+<<<<<<< HEAD
    false,
+   true,
    false,
    true,
    false,
+   false,
+   true,
    false,
+=======
    true,
+   true,
    false,
    true,
    false,
+   true,
+   true,
    false,
+   true,
    true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   true,
    false,
    true,
+   true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
+   false,
    true,
+<<<<<<< HEAD
    false,
+   true,
+=======
    true,
    false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
    true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
+   false,
    true,
+<<<<<<< HEAD
+   false,
    false,
    false,
+=======
    true,
+   true,
+   false,
    false,
    false,
+   true,
+   true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true
   ]
  },
  "COST": {
+<<<<<<< HEAD
   "score": 0.621514708415813,
   "predictions": [
    false,
@@ -2153,17 +3735,35 @@
    false,
    true,
    true,
+=======
+  "score": 0.623065145882225,
+  "predictions": [
    true,
    true,
+   false,
+   true,
+   false,
+   true,
+   false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
    true,
+   true,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
    false,
    false,
+   true,
+=======
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
@@ -2171,43 +3771,79 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+   true,
    true,
    true,
+   false,
    true,
+   false,
    false,
+   false,
+   true,
    true,
+   true,
+   false,
    false,
    false,
    false,
    true,
+=======
+   true,
+   false,
    true,
    true,
    false,
    false,
    false,
    false,
+   false,
+   false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
+   false,
+   false,
+=======
+   false,
    false,
+   true,
+   true,
    false,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -2217,20 +3853,33 @@
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
+=======
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+   true,
+=======
+   true,
+   false,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    true,
    true,
@@ -2239,46 +3888,82 @@
    false,
    true,
    false,
+=======
    true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    true,
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
    false,
    false,
+=======
    false,
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
+   true,
    true,
    true,
    true,
+   true,
    false,
+<<<<<<< HEAD
    false,
+   true,
+   true,
+=======
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
    false,
    false,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
+   true,
    true,
    true,
+=======
    true,
+   false,
+   true,
+   false,
    true,
+   false,
+   false,
    true,
+   false,
    true,
    true,
    true,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2286,51 +3971,100 @@
    false,
    false,
    false,
+<<<<<<< HEAD
+   true,
    true,
    true,
    true,
+=======
+   false,
+   false,
    true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
+   true,
+   false,
+=======
+   false,
+   false,
    true,
    false,
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   true,
+   true,
    false,
+<<<<<<< HEAD
    true,
    true,
+   false,
+   false,
    false,
    false,
+   true,
+=======
    false,
+   true,
+   true,
+   true,
    false,
    true,
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
    false,
    true,
    true,
+   true,
+   true,
+   true,
+=======
+   false,
    true,
+   false,
    true,
+   false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
    true,
    false,
+=======
+   false,
+   false,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
@@ -2338,18 +4072,28 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+=======
+   true,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   true,
    true,
    true,
    true,
@@ -2360,8 +4104,12 @@
    true,
    true,
    true,
+   false,
+<<<<<<< HEAD
+=======
    true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
@@ -2369,46 +4117,86 @@
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
+=======
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
+   true,
    true,
    true,
    true,
+=======
    true,
    true,
    true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
    false,
    false,
+   false,
+<<<<<<< HEAD
    true,
    true,
    true,
    true,
+   false,
    false,
+   false,
+=======
+   false,
+   false,
+   true,
+   true,
    false,
    false,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
+   true,
    true,
    true,
    true,
+<<<<<<< HEAD
+   false,
    true,
    false,
+=======
    true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
+   true,
+<<<<<<< HEAD
+   true,
    true,
    true,
    true,
+=======
+   false,
+   true,
    true,
+   false,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -2416,6 +4204,10 @@
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -2423,16 +4215,25 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+=======
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    true,
+   true,
+   true,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2440,18 +4241,34 @@
   ]
  },
  "GOOGL": {
+<<<<<<< HEAD
   "score": 0.3385340095434713,
   "predictions": [
    false,
    true,
    false,
    true,
+=======
+  "score": 0.42700755956095293,
+  "predictions": [
    false,
+   true,
+   true,
+   false,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
+   false,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -2460,15 +4277,28 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
    false,
    false,
    false,
    true,
+   false,
    false,
    false,
+=======
+   false,
+   true,
+   true,
+   true,
+   true,
    false,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -2476,13 +4306,22 @@
    false,
    true,
    true,
+   false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+=======
+   true,
    false,
+   false,
+   true,
    true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
@@ -2492,8 +4331,13 @@
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
+=======
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
@@ -2502,16 +4346,29 @@
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
@@ -2519,15 +4376,22 @@
    true,
    true,
    false,
+<<<<<<< HEAD
+   false,
+   true,
    false,
+=======
    true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
    false,
@@ -2539,9 +4403,27 @@
    false,
    true,
    true,
+   true,
+   false,
    true,
+=======
+   false,
+   false,
+   false,
+   false,
    false,
+   false,
+   false,
+   false,
    true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -2552,54 +4434,98 @@
    true,
    true,
    false,
+<<<<<<< HEAD
    true,
+   false,
+   false,
+   true,
+   false,
+=======
    false,
+   true,
+   true,
    false,
    true,
+   false,
+   false,
+   false,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
+   true,
+<<<<<<< HEAD
+   false,
+   false,
    true,
    false,
+   true,
    false,
    true,
+=======
+   true,
    false,
+   true,
    true,
    false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
    false,
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
    false,
    true,
+   false,
    false,
    false,
+   true,
+   false,
+=======
+   true,
+   true,
    false,
    true,
+   true,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -2608,13 +4534,23 @@
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
+=======
+   false,
+   true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
@@ -2626,23 +4562,46 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
+=======
    true,
+   false,
+   false,
+   false,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
    false,
    false,
+=======
+   false,
+   true,
+   true,
+   false,
+   true,
+   false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -2651,6 +4610,10 @@
    false,
    false,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
@@ -2660,6 +4623,12 @@
    true,
    true,
    false,
+<<<<<<< HEAD
+=======
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
@@ -2668,22 +4637,29 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    true,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
    false,
@@ -2692,16 +4668,29 @@
    false,
    true,
    false,
+=======
+   false,
+   true,
    true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
    true,
    true,
    false,
+=======
+   true,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
@@ -2709,16 +4698,22 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2726,6 +4721,7 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
@@ -2739,13 +4735,20 @@
    false,
    false,
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false
   ]
  },
  "BTC": {
+<<<<<<< HEAD
   "score": 0.6958794912655862,
+=======
+  "score": 0.7412804369228443,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
   "predictions": [
    true,
    true,
@@ -2754,6 +4757,14 @@
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
+   true,
+   true,
    true,
    true,
    true,
@@ -2770,14 +4781,21 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
    true,
+=======
+   false,
    true,
+   false,
    true,
    true,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2792,9 +4810,13 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
@@ -2804,6 +4826,7 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
@@ -2811,23 +4834,42 @@
    true,
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
+   false,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+   true,
+   true,
+   true,
    false,
    true,
+   false,
+   false,
+   false,
+=======
    true,
+   false,
+   false,
+   false,
    true,
    false,
+   false,
    true,
    false,
+   true,
+   true,
+   true,
    false,
    false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2837,10 +4879,14 @@
    true,
    true,
    true,
+   true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
@@ -2849,70 +4895,124 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
    false,
    false,
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   true,
    false,
    false,
    true,
+<<<<<<< HEAD
+   false,
    false,
    false,
    false,
+   true,
+   false,
+=======
+   true,
+   true,
    false,
    true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
    true,
    false,
+=======
+   true,
    true,
    true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
+   false,
+   true,
    false,
+<<<<<<< HEAD
+   true,
+   true,
+   true,
+   true,
+   true,
    true,
+   true,
+=======
+   false,
    false,
    true,
+   true,
+   false,
+   false,
    true,
    true,
    true,
+   false,
+   false,
    true,
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    true,
+<<<<<<< HEAD
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -2937,8 +5037,11 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2946,13 +5049,19 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -2968,6 +5077,12 @@
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
@@ -2976,16 +5091,29 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
+   true,
+   true,
    true,
+   false,
    true,
+   false,
    true,
+=======
+   false,
    false,
+   false,
+   false,
    true,
    false,
+   true,
    true,
    false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    false,
    true,
@@ -2994,41 +5122,72 @@
    true,
    true,
    false,
+<<<<<<< HEAD
    true,
    true,
    false,
    false,
    true,
+   true,
+   false,
+   false,
    true,
    false,
+=======
    false,
    true,
+   true,
+   true,
+   false,
+   true,
    false,
+   true,
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
+   true,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
    true,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    true,
    true,
@@ -3040,30 +5199,47 @@
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
+   false,
    false,
+=======
    false,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true
   ]
  },
  "ETH": {
+<<<<<<< HEAD
   "score": 0.4709475435942425,
   "predictions": [
+=======
+  "score": 0.5677588797057601,
+  "predictions": [
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
    true,
    true,
    true,
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3071,24 +5247,51 @@
    true,
    true,
    false,
+   true,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
+=======
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    false,
+<<<<<<< HEAD
+   true,
    true,
+   true,
+   true,
+   true,
+   true,
+   true,
+=======
+   false,
+   false,
    true,
+   false,
    true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
    true,
    true,
    true,
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3098,6 +5301,7 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
@@ -3107,15 +5311,25 @@
    true,
    false,
    true,
+   true,
+   false,
    true,
    false,
+   false,
    true,
    false,
    false,
    true,
+=======
+   false,
+   false,
    false,
+   true,
    false,
    true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
@@ -3126,42 +5340,81 @@
    true,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
+   false,
+   true,
+<<<<<<< HEAD
+   true,
    true,
+=======
+   false,
+   false,
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    true,
    true,
+   false,
    false,
    false,
    false,
    false,
    false,
+=======
+   true,
+   false,
+   true,
+   false,
+   true,
+   false,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
+   true,
+<<<<<<< HEAD
+   false,
+   false,
    true,
    false,
+   true,
    false,
+=======
    true,
    false,
+   false,
+   true,
    true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
+   true,
+<<<<<<< HEAD
    false,
+=======
    true,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -3169,6 +5422,11 @@
    true,
    false,
    false,
+<<<<<<< HEAD
+=======
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
@@ -3176,35 +5434,63 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    false,
+<<<<<<< HEAD
    true,
    true,
    true,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
    false,
    true,
+   true,
+   true,
+   true,
+=======
+   false,
+   false,
+   false,
+   false,
    true,
+   false,
+   false,
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
+   true,
+   false,
+   false,
+<<<<<<< HEAD
    true,
    false,
    false,
    true,
+=======
    false,
+   true,
    false,
    true,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3213,19 +5499,25 @@
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
    false,
    true,
    false,
    false,
    false,
+=======
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3239,6 +5531,8 @@
    true,
    true,
    true,
+   true,
+<<<<<<< HEAD
    false,
    true,
    true,
@@ -3247,17 +5541,28 @@
    false,
    false,
    false,
+=======
+   true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
+   true,
    false,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
@@ -3270,6 +5575,7 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
    false,
@@ -3287,19 +5593,37 @@
    true,
    false,
    false,
+=======
    true,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
    true,
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+=======
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3308,14 +5632,30 @@
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
+   true,
+<<<<<<< HEAD
+   true,
+   true,
    true,
+=======
+   false,
    true,
+   false,
+   false,
+   false,
+   false,
+   false,
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3324,12 +5664,20 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
@@ -3337,14 +5685,25 @@
    false,
    true,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
+   true,
    true,
+<<<<<<< HEAD
+=======
+   false,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
@@ -3364,48 +5723,101 @@
    true,
    true,
    true,
+=======
+   true,
+   true,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true,
+   true,
+   false,
+   true,
+   true,
+   false,
+   true,
+   true,
+   true
+  ]
+ },
+ "SOL": {
+  "score": 0.5001472164578838,
+  "predictions": [
+   true,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    false,
    true,
+<<<<<<< HEAD
    true,
    true,
    true,
    true,
    false,
+=======
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    true,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    true,
+=======
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    false,
    true,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
    false,
+=======
+   true,
    true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
+=======
+   true,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    true,
    false,
    false,
@@ -3422,22 +5834,42 @@
    true,
    true,
    true,
+=======
+   false,
+   false,
+   false,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
+   false,
    false,
+   true,
    false,
    true,
+   false,
+   false,
    false,
+   false,
+<<<<<<< HEAD
    true,
    false,
+   true,
    false,
    false,
+=======
    false,
    true,
+   false,
+   false,
    false,
    true,
    false,
    false,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
@@ -3447,66 +5879,129 @@
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
+   true,
+   true,
+   false,
+   false,
+<<<<<<< HEAD
    true,
    true,
    false,
+=======
    false,
+   true,
    true,
    true,
+   false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    false,
+   false,
+   false,
+=======
+   true,
+   false,
+   true,
    false,
    false,
    false,
+   true,
+   true,
+   true,
+   true,
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
+   false,
    false,
    false,
    false,
+   true,
    false,
+   true,
+=======
+   true,
    true,
+   true,
+   false,
    false,
    true,
+   false,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    true,
    false,
+=======
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    true,
    false,
    true,
    false,
+<<<<<<< HEAD
+=======
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
    true,
    false,
    true,
+   false,
+   false,
+   false,
    false,
    false,
+   true,
+=======
+   true,
    false,
    false,
    false,
    true,
+   true,
+   false,
+   false,
    false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    true,
    false,
    true,
@@ -3523,103 +6018,173 @@
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
+   false,
    false,
    false,
    false,
    false,
+   true,
+=======
    false,
+   false,
+   true,
    true,
+   true,
+   true,
+   true,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
+=======
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
    true,
    true,
+<<<<<<< HEAD
    false,
    true,
    false,
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
    true,
    false,
+   false,
+   true,
    false,
    true,
    false,
    true,
    false,
+=======
+   false,
+   true,
    true,
    false,
    true,
    true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
+   true,
    false,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
+   true,
+=======
    true,
    true,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    true,
+   true,
    false,
    false,
    false,
    false,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    true,
    true,
    false,
+<<<<<<< HEAD
    true,
    true,
    false,
    true,
    true,
+=======
    false,
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   false,
    false,
    true,
    false,
    false,
+<<<<<<< HEAD
    false,
    false,
    true,
    true,
    false,
    false,
+   false,
+   false,
+   true,
    false,
    false,
    true,
+   true,
    false,
+   true,
+=======
+   true,
    false,
+   true,
    true,
    true,
+   false,
+   true,
+   false,
+   false,
+   false,
    false,
    true,
    true,
+   true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
+   true,
    false,
    false,
    false,
    true,
+<<<<<<< HEAD
    false,
    false,
    true,
    false,
    true,
    true,
+   false,
+   false,
    false,
    false,
    false,
@@ -3630,14 +6195,35 @@
    false,
    false,
    false,
+   false,
+   true,
+   true,
+   true,
+   true,
+   true,
+=======
+   true,
+   true,
+   true,
    false,
+   true,
+   true,
    false,
+   true,
+   true,
+   true,
+   true,
+   true,
    false,
    true,
    true,
+   false,
    true,
+   false,
    true,
    true,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    true,
@@ -3646,13 +6232,24 @@
    true,
    false,
    false,
+<<<<<<< HEAD
+=======
+   true,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    false,
    false,
    false,
    true,
    true,
+<<<<<<< HEAD
    false,
+   true,
+=======
    true,
+   false,
+   false,
+   false,
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
    true,
    false,
    false,

@@ -5,4 +5,7 @@ __pycache__/
 logs/
 .lumibot/
 .DS_Store
+<<<<<<< HEAD
 data/
+=======
+>>>>>>> e58bb93804ff1cb18cf734c45bfa54a7b45947e0
